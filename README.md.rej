@@ -1,0 +1,8 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -9,3 +9,6 @@
+ Creating a new branch is quick "--no-ff" simple with liwei
+ 
+ Creating a new branch is quick "--no-ff" simple with liwei(stash)
++
++Creating a new branch is quick "--no-ff" simple with lee(stash)
++
