@@ -7,3 +7,5 @@ Creating a new branch is quick "--no-ff" simple
 Creating a new branch is quick "--no-ff" simple with lee
 
 Creating a new branch is quick "--no-ff" simple with liwei
+
+Creating a new branch is quick "--no-ff" simple with liwei(stash)
