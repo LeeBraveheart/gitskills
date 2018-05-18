@@ -17,3 +17,6 @@ Creating a new branch is quick "--no-ff" simple with lee(by sourcetree)
 Creating a new branch is quick "--no-ff" simple with liwei(sourcetree)
 
 Creating a new branch is quick "--no-ff" simple with liwei(sourcetree merge)
+
+Creating a new branch is quick "--no-ff" simple with lee(sourcetree merge)
+
